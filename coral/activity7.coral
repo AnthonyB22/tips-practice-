@@ -1,0 +1,4 @@
+float sellingPrice
+sellingPrice = Get next input
+Put "eBay fee: $" to output
+Put (sellingPrice) to output

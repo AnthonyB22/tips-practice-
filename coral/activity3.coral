@@ -1,0 +1,7 @@
+float distKm
+float distMiles
+
+distKm = Get next input
+distMiles = (distKm)
+Put "Miles driven: " to output 
+Put distMiles to output

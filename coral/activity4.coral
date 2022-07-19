@@ -1,0 +1,14 @@
+float pizzaDiameter1
+float pizzaDiameter2
+float totalPizzaArea 
+float circleArea1
+float circleArea2
+
+pizzaDiameter1 = 12.0
+circleArea1 = (pizzaDiameter1)
+pizzaDiameter2 = 14.0
+circleArea2 = (pizzaDiameter2)
+totalPizzaArea = circleArea1 + circleArea2
+Put " A 12 and 14 inch pizza has " to output 
+Put totalPizzaArea to output 
+Put " inches squared combined. " to output 
